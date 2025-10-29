@@ -17,8 +17,10 @@
 - Finalize consent language and interim logging SOP.
 - Complete copyright asset inventory and moderation playbook.
 - Ship accessibility fixes for learner dashboard and publish media alternative text inventory.
+- Produce a lightweight clickable prototype demonstrating pilot user journeys prior to full engineering hand-off.
 
 ### Dependencies & Next Steps
 - Close identified gaps before Phase 0 exit review.
 - Coordinate with Engineering to surface consent logging in admin UI.
 - Align Legal and Operations on cross-border participation review cadence.
+- Partner with Product Design to iterate on the prototype using Figma components and gather stakeholder sign-off.
