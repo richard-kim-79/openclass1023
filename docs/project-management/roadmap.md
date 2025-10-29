@@ -24,3 +24,4 @@
 - Coordinate with Engineering to surface consent logging in admin UI.
 - Align Legal and Operations on cross-border participation review cadence.
 - Partner with Product Design to iterate on the prototype using Figma components and gather stakeholder sign-off.
+- Schedule the prototype feedback workshop outlined in the Tier 1 backlog and capture action items for backlog reprioritization.
